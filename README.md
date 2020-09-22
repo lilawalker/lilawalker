@@ -24,6 +24,7 @@
   
   # Interests
   
+  🚲 Cycling<br>
   🐈 Petting cats<br>
   🧵 Sewing stuff<br>
   :anchor: Getting tattooed<br>
