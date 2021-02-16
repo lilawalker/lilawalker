@@ -1,6 +1,6 @@
 <samp>
   
-  Hi 👋 , I'm Lila, and I love to make things. Recent graduate of [Makers Academy](https://makers.tech/) bootcamp. Proud Londoner originally from 🍁 Canada.
+  Hi 👋 , I'm Lila, and I love to make things. Graduate of [Makers Academy](https://makers.tech/) bootcamp. Proud Londoner originally from 🍁 Canada.
   
   Find out more at https://lilawalker.dev
   
@@ -34,7 +34,6 @@
   
   🐦 [Twitter](https://twitter.com/_lilaw_)<br>
   🛄 [LinkedIn](https://www.linkedin.com/in/lila-walker-407b003b/)<br>
-  💼 [GitHub CV](https://github.com/lilawalker/CV)<br>
   
   # My Favourite Tech Groups
   
