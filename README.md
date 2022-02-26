@@ -1,6 +1,6 @@
 <samp>
   
-  Hi 👋 , I'm Lila, and I love to make things. Graduate of [Makers Academy](https://makers.tech/) bootcamp. Proud Londoner originally from 🍁 Canada.
+  Hi 👋 , I'm Lila, and I love to make things. Graduate of [Makers Academy](https://makers.tech/) bootcamp and currently working as a software developer at [AND Digital](https://www.and.digital). Proud Londoner originally from 🍁 Canada.
   
   Find out more at https://lilawalker.dev
   
@@ -14,30 +14,16 @@
   🖤 Inclusivity and diversity<br>
   🚀 Leading by example<br>
   
-  # More About Me
-  
-  I love automating and making processes more efficient, exploring the world of tech and empowering teams<br>
-
-  🌱 I’m currently working on developing myself, with a focus on learning Rails and React<br>
-  💬 Ask me about: My unconventional journey into tech<br>
-  ⚡ Fun facts: I've been to 40 countries, I make salads taste good, and I used to make and sell crocheted sock monkeys on Etsy<br>
-  
   # Interests
   
-  🚲 Cycling<br>
-  🐈 Petting cats<br>
-  🧵 Sewing stuff<br>
-  :anchor: Getting tattooed<br>
+  🚲 Cycling the city and canals<br>
+  🐈 Petting and photographing cats<br>
+  🧵 Sewing and making cool stuff<br>
+  😋 Eating my way around the world<br>
   👩 Supporting women in tech<br>
   
   # Get in Touch
   
-  🐦 [Twitter](https://twitter.com/_lilaw_)<br>
   🛄 [LinkedIn](https://www.linkedin.com/in/lila-walker-407b003b/)<br>
-  
-  # My Favourite Tech Groups
-  
-  [London Ruby User Group](http://lrug.org/)<br>
-  [Rails Girls](http://railsgirls.com/)<br>
 
 </samp>
